@@ -1,5 +1,6 @@
 # Modular Interfaces Manifesto
 #### v.0.1
+#### (Portuguese version [here](manifesto-ptBR.md))
 
 We are designers and developers.
 
@@ -33,7 +34,7 @@ Design guidelines serve as the project foundation, guiding the path for developm
 
 The interfaces will result from the combination of modular elements, built to maintain visual and functional consistency.
 
-— If you believe that we can make our job with less waste and more efficiency, **join us**.
+— If you believe that we can make our job with less waste and more efficiency, [**join us**](https://www.facebook.com/groups/modular.ui/).
 
 [Ítalo Mendonça](http://www.italomen.com.br) and [Thiago Victorino](http://www.github.com/tfvictorino).  
 **ModularUI – Modular Digital Interfaces**  
