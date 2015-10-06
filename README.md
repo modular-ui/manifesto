@@ -35,5 +35,5 @@ The interfaces will result from the combination of modular elements, built to ma
 
 — If you believe that we can make our job with less waste and more efficiency, **join us**.
 
-[Ítalo Mendonça](http://www.italomen.com.br) and [Thiago Victorino](htttp://www.github.com/tfvictorino).  
+[Ítalo Mendonça](http://www.italomen.com.br) and [Thiago Victorino](http://www.github.com/tfvictorino).  
 **ModularUI – Modular Digital Interfaces**  
