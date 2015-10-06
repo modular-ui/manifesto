@@ -17,21 +17,21 @@ We want to foment discussions on digital interface creation and development on t
 
 We follow these principles:
 
-### Ugly first
+> ### Ugly first
 
-Every project begins "ugly", because we believe that the initial conversations should be about navigation flows and structure, not visual details.
+> Every project begins "ugly", because we believe that the initial conversations should be about navigation flows and structure, not visual details.
 
-### Gradual improvement
+> ### Gradual improvement
 
-The project will be constantly evolving. Refinement will happen in agile cycles, prioritizing what generates the higher value. Expanding from smaller to biggger (*mobile-first* approach) and from the inside to the outsite (*content-first* approach).
+> The project will be constantly evolving. Refinement will happen in agile cycles, prioritizing what generates the higher value. Expanding from smaller to biggger (*mobile-first* approach) and from the inside to the outsite (*content-first* approach).
 
-### Look and feel over pixel perfection
+> ### Look and feel over pixel perfection
 
-Design guidelines serve as the project foundation, guiding the path for development. Therefore, interface decisions should be taken based on the final output – code in the browser –, not the graphic design tool.
+> Design guidelines serve as the project foundation, guiding the path for development. Therefore, interface decisions should be taken based on the final output – code in the browser –, not the graphic design tool.
 
-### System-thinking, always
+>### System-thinking, always
 
-The interfaces will result from the combination of modular elements, built to maintain visual and functional consistency.
+> The interfaces will result from the combination of modular elements, built to maintain visual and functional consistency.
 
 — If you believe that we can make our job with less waste and more efficiency, [**join us**](https://www.facebook.com/groups/modular.ui/).
 
