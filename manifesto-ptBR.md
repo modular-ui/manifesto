@@ -1,6 +1,5 @@
 # Manifesto das Interfaces Modulares
-#### v.0.1
-#### (Versão em inglês [aqui](README.md))
+##### v.0.1 – (Versão em inglês [aqui](README.md)).
 
 Nós somos designers e desenvolvedores.
 

@@ -1,6 +1,5 @@
 # Modular Interfaces Manifesto
-#### v.0.1
-#### (Portuguese version [here](manifesto-ptBR.md))
+##### v.0.1 – (Portuguese version [here](manifesto-ptBR.md)).
 
 We are designers and developers.
 
