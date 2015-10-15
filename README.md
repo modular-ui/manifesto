@@ -1,39 +1,41 @@
-# Modular Interfaces Manifesto
-##### v.0.1 – (Portuguese version [here](manifesto-ptBR.md)).
+# Manifesto das Interfaces Modulares
+##### v.1.1 – (Versão em inglês [aqui](manifesto-EN.md)).
 
-We are designers and developers.
+Nós somos designers e desenvolvedores.
 
-We don't create *comps* for sites, applications and digital products. We don't deliver *pixel perfect* solutions.
+Não criamos *telas* para sites, aplicações e produtos digitais. Não entregamos *pixels perfeitos*.
 
-We build **modular systems**: flexible and scalable interfaces, composed of reusable elements.
+Construímos **sistemas modulares**: interfaces flexíveis, escaláveis, compostas de elementos reaproveitáveis.
 
-We seek ways to break the barrier between the responsibilities on an interface project.
+Procuramos maneiras de quebrar as barreiras que dividem as responsabilidades dentro de um projeto de interface.
 
-We stimulate creative autonomy of developers and continuous participation of designers during the entire project.
+Estimulamos a autonomia criativa dos desenvolvedores e a participação contínua dos designers no decorrer do projeto.
 
-We promote collaboration between clients, makers and users.
+Promovemos a colaboração entre clientes, criadores e usuários.
 
-We want to foment and further the discussion on digital interface creation and development on the communities we participate.
+Queremos fomentar e aprofundar discussões sobre criação e desenvolvimento de interfaces digitais nas comunidades em que participamos.
 
-We follow these principles:
+Seguimos os seguintes princípios:  
 
-> ### Ugly first
+> ### *Ugly first*
 
-> Every project begins "ugly", because we believe that the initial conversations should be about navigation flows and structure, not visual details.
+> Todo projeto começa feio, pois acreditamos que as conversas iniciais devem ser sobre fluxos de navegação e estruturas, não sobre detalhes visuais.
 
-> ### Gradual improvement
+> ### Melhorias gradativas
 
-> The project will be constantly evolving. Refinement will happen in agile cycles, prioritizing what generates the higher value. Expanding from smaller to bigger (*mobile-first* approach) and from the inside to the outside (*content-first* approach).
+> O projeto estará em constante evolução. O refinamento acontecerá em ciclos ágeis, começando pelo que gera mais valor. Expandindo do menor pro maior (*mobile first*) e de dentro pra fora (*content first*).
 
-> ### Look and feel over pixel perfection
+> ### *Look and Feel*, sim. *Pixel perfect*, não.
 
-> Design guidelines serve as the project foundation, guiding the path for development. Therefore, interface decisions should be taken based on the final output – code in the browser –, not the graphic design tool.
+> Diretrizes de design servem como fundação para o projeto, norteando os caminhos para o desenvolvimento. Portanto, as decisões de interface devem ser tomadas com base no resultado final (código rodando no navegador), não no software de desenho.
 
->### System-thinking, always
+> ### Pensamento sistêmico, sempre
 
-> The interfaces will result from the combination of modular elements, built to maintain visual and functional consistency.
+> As interfaces resultarão da combinação de diversos elementos modulares menores, desenvolvidos para manter a coerência estética e funcional entre si.
 
-— If you believe that we can make our work less wasteful and more efficient, [**join us**](https://www.facebook.com/groups/modular.ui/).
+— Se você acredita que podemos fazer nosso trabalho com menos desperdício e mais eficiência, [**junte-se ao time**](https://www.facebook.com/groups/modular.ui/).
 
-[Ítalo Mendonça](http://www.italomen.com.br) and [Thiago Victorino](http://www.github.com/tfvictorino).  
-**ModularUI – Modular Digital Interfaces**  
+[Ítalo Mendonça](http://www.italomen.com.br) e [Thiago Victorino](http://www.github.com/tfvictorino).  
+
+**ModularUI – Interfaces Digitais Modulares**  
+http://modular-ui.com
